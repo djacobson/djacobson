@@ -11,4 +11,4 @@ David Jacobson is my terrestrial label:
 - 💬 Ask me about ... growing tomatoes in Central Texas.
 - 📫 How to reach me: ... mailto:david@jacobsonhome.com
 - 😄 Pronouns: ... Null
-- ⚡ Fun fact: ... The Jacobson organ is found at the base the snake's nasal cavity, which allows them to literally taste and smell the air!
+- ⚡ Fun fact: ... The Jacobson organ is found at the base of the snake's nasal cavity (i.e.: Rattlesnake), which allows them to literally taste and smell the air!
