@@ -4,7 +4,7 @@
 
 David Jacobson is my terrestrial label:
 
-- 🔭 I’m currently working on ... deciding which one of my old aps to rewrite in Rust
+- 🔭 I’m currently working on ... deciding which one of my old apps to rewrite in Rust
 - 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... TBD
 - 🤔 I’m looking for help with ... TBD
