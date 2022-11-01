@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... deciding which one of my old aps to rewrite in Rust.
-- 🌱 I’m currently learning ... Rust.
+- 🔭 I’m currently working on ... deciding which one of my old aps to rewrite in Rust
+- 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... TBD
 - 🤔 I’m looking for help with ... TBD
 - 💬 Ask me about ... growing tomatoes in Central Texas.
